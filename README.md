@@ -4,7 +4,7 @@ OpenCV is the most popular library for the task of computer vision, it is a cros
 CVzone is a computer vision package, where it uses OpenCV and MediaPipe libraries as its core that makes us easy to run like hand tracking, face detection, facial landmark detection, pose estimation, etc., and also image processing and other computer vision-related applications. Check here for more information.
 
 # Outcome
-Look for yourself in this <a href = "https://www.youtube.com/watch?v=iiRxIg4L0uI">video</a>
+![2024-07-04 17-37-15](https://github.com/tuyenle009/AI-Virtual-Keyboard-Using-OpenCV/assets/128459950/4a551d90-7b8e-43c0-b9e1-0b4baafb1139)
 
 # Implementation of Virtual Keyboard Using OpenCV
 Let us create a virtual Keyboard.
